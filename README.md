@@ -1,4 +1,4 @@
-# Controle contas com React
+# Controle contas
 
 Backend e Frontend desenvolvido com:
 NodeJS
